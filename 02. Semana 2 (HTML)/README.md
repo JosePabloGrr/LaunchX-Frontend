@@ -3,7 +3,8 @@
 ### Pasteleria Algo Dulce ###
 Vista previa del proyecto/practica:
 - [Algo Dulce](https://algodulce.socialarte.com/)
-![Algo Dulce Vista Previa](https://github.com/JosePabloGrr/LaunchX-Frontend/blob/main/02.%20Semana%202%20(HTML)/img/VistaPrevia.png)
+
+![Algo Dulce Vista Previa](img/VistaPrevia.png)
 
 # Prácticas HTML
 
