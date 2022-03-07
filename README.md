@@ -3,7 +3,7 @@
 ## Prácticas de FrontEnd Misión
 
 1. [Semana 1 / Intro](https://github.com/JosePabloGrr/LaunchX-Frontend/tree/main/01.%20Semana%201%20(INTRO))
-2. [Semana 2 / HTML](https://github.com/JosePabloGrr/LaunchX-Frontend/)
+2. [Semana 2 / HTML](https://github.com/JosePabloGrr/LaunchX-Frontend/tree/main/02.%20Semana%202%20(HTML))
 3. [Semana 3 / CSS](https://github.com/JosePabloGrr/LaunchX-Frontend/)
 4. [Semana 4 / JS](https://github.com/JosePabloGrr/LaunchX-Frontend/)
 5. [Semana 5 / VueJS](https://github.com/JosePabloGrr/LaunchX-Frontend/)
