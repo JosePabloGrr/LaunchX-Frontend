@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header {
+    backdrop-filter: blur(0.7rem);
+}
+h1, h2, h3, h4 {
+    @apply text-blue-900;
+}
+h4 {
+    @apply font-bold;
+}
+p {
+    color: theme(colors.gray.500);
+}
+.bannerPrincipal {
+    background-image: url("../img/enfermeraPrincipal.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.enlaceMenu {
+    @apply p-5 px-5 relative font-medium leading-6 text-gray-500 transition duration-150 ease-out hover:text-gray-900;
+}
+.boton {
+    @apply text-white px-6 py-3 shadow-lg shadow-blue-500/50 rounded-md hover:bg-blue-700;
+}
+.btn-primario {
+    @apply bg-blue-800;
+}
+.btn-secundario {
+    @apply bg-blue-200;
+}
+.locacion {
+    backdrop-filter: blur(0.7rem);
+    @apply bg-white bg-opacity-80;
+}
+i.fav {
+    min-width: 30px;
+    min-height: 30px;
+    @apply text-center p-2 mr-3 rounded bg-blue-100 text-blue-800 transition-shadow duration-500;
+}
+.i-shadow {
+    @apply border border-solid shadow-lg shadow-blue-500/20;
+}
+.logotipos img {
+    filter: grayscale(100%) opacity(0.2);
+    transition: filter ease 500ms;
+}
+.logotipos img:hover {
+    filter: none;
+}
+
+.fondoHeader {
+    background-image: ur;
+}
+.benefit-card {
+    @apply p-5 border-2 border-gray-100 rounded-lg max-w-sm space-y-4 bg-white transition-all duration-500;
+}
+.benefit-card:hover {
+    @apply shadow-xl shadow-blue-300/20 border-white;
+}
+.benefit-card:hover i {
+    @apply shadow-xl shadow-blue-500/20;
+}
